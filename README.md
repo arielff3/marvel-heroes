@@ -10,10 +10,11 @@
   <a href="https://mavel-heroes-objective.netlify.app">Demo</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/coverage-98%25-brightgreen" alt="shield" />
   <img src="https://api.netlify.com/api/v1/badges/6d390ba4-f867-4cde-8c0d-1707b99a9bf3/deploy-status" alt="shield" />
-</h1>
+  <img src="https://img.shields.io/badge/version-1.0.0-red" alt="shield" />
+</p>
 
 <br/>
 
