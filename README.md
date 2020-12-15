@@ -2,6 +2,8 @@
     <img alt="Marvel Heroes" title="Marvel Heroes" src=".github/logo.png" width="300px" />
 </h1>
 
+[![Coverage Status](https://coveralls.io/repos/github/arielff3/marvel-heroes/badge.svg?branch=main)](https://coveralls.io/github/arielff3/marvel-heroes?branch=main)
+
 <p align="center">
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
