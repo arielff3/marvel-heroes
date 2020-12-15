@@ -7,7 +7,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark_tabs-pre_requisitos">Pré requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/facebook/react">Demo</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mavel-heroes-objective.netlify.app/detalhes/1010935">Demo</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
